@@ -1,11 +1,10 @@
 class HelloWorld{
 
-public static void main(){
+public static void main(String args[]){
 
+         System.out.println("Hello World..Welcome to git!!!");
 
-System.out.println("Hello World..Welcome to git!!!");
-
-sysout("git")
+         sysout("git")
 
 
 }
