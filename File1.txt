@@ -1,7 +1,9 @@
-class helloworld{
-psvm(){
+class HelloWorld{
+
+public static void main(){
 
 sysout("Hello World...Welcome to git!!!");
+
 }
 
 }
