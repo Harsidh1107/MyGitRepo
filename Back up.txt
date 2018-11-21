@@ -1,0 +1,65 @@
+harsidh_yadav@PTJAVAELTP16 MINGW64 ~
+$ cd D:/Users/harsidh_yadav/gitdemo
+
+harsidh_yadav@PTJAVAELTP16 MINGW64 ~/gitdemo
+$ git config --global user.name "harsidh"
+
+harsidh_yadav@PTJAVAELTP16 MINGW64 ~/gitdemo
+
+$ git config --global user.email "harsidh_yadav@persistent.com"
+
+git config user.name
+
+git config user.email
+
+git config --list
+
+git init
+
+git status
+
+git add File1.txt
+
+git commit -m "File1.txt is created...Hello World"
+
+after making some changes....
+
+git status
+
+git add . ---- for all files
+
+git status
+
+git commit -m "Public static void main and class name changed"
+
+git status
+
+---------------------------------------------------------------------------------
+
+git commit -am "System.out.println"
+
+git status
+
+git log
+
+git log --oneline
+
+git log --since="11/19/2018"
+
+git log --since="11/19-2018" --oneline
+
+git log --since="11/19-2018" --oneline -2
+
+git log --until="11/19-2018" --oneline
+
+git log --until="11-20-2018" --oneline
+
+git log --help
+
+git log --grep="class name"
+
+
+
+
+
+
